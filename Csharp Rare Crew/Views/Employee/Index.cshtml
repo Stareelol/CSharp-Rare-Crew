@@ -1,0 +1,43 @@
+﻿@model List<Csharp_Rare_Crew.ViewModels.EmployeeVm>
+
+<div class="stats-flex">
+    <table>
+        <tr><th>Employee name</th><th>Total hours worked</th></tr>
+        @foreach (var e in Model)
+        {
+            var cls = e.TotalTime < 100 ? "workedLess" : "";
+            <tr class="@cls">
+                <td>@e.EmployeeName</td>
+                <td>@Math.Round(e.TotalTime,2)</td>
+            </tr>
+        }
+    </table>
+
+    <div class="chart-wrap">
+        <img src="/chart.png" alt="pie chart" />
+    </div>
+</div>
+
+<style>
+    .stats-flex {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .chart-wrap {
+        margin-left: 50px;
+    }
+
+    .workedLess {
+        background: #e96367;
+    }
+
+    table, th, td {
+        border: 1px solid #000;
+    }
+
+    th, td {
+        text-align: center;
+        vertical-align: middle;
+    }
+</style>

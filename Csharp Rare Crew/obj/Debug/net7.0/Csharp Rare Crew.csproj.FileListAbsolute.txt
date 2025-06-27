@@ -1,0 +1,37 @@
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\appsettings.Development.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\appsettings.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\Csharp Rare Crew.staticwebassets.runtime.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\Csharp Rare Crew.exe
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\Csharp Rare Crew.deps.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\Csharp Rare Crew.runtimeconfig.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\Csharp Rare Crew.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\Csharp Rare Crew.pdb
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.GeneratedMSBuildEditorConfig.editorconfig
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.AssemblyInfoInputs.cache
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.AssemblyInfo.cs
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.csproj.CoreCompileInputs.cache
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.MvcApplicationPartsAssemblyInfo.cache
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.RazorAssemblyInfo.cache
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.RazorAssemblyInfo.cs
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets\msbuild.Csharp Rare Crew.Microsoft.AspNetCore.StaticWebAssets.props
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets\msbuild.build.Csharp Rare Crew.props
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Csharp Rare Crew.props
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Csharp Rare Crew.props
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets.pack.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets.build.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\staticwebassets.development.json
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\scopedcss\bundle\Csharp Rare Crew.styles.css
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\scopedcss\projectbundle\Csharp Rare Crew.bundle.scp.css
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\refint\Csharp Rare Crew.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.pdb
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.genruntimeconfig.cache
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\ref\Csharp Rare Crew.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\SkiaSharp.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.csproj.AssemblyReference.cache
+S:\vscode\repos\Csharp Rare Crew\Csharp Rare Crew\obj\Debug\net7.0\Csharp Rare Crew.csproj.CopyComplete

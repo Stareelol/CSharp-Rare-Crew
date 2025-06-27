@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwKiCD6ffIyAY+Ob12KXhv6wBKBrFH3WKDbg8wRAOiKsokwswasSNdlqZwq6yyU9TgIGfSiKQuciWq2m/ToPXQ==",
+  "success": true,
+  "projectFilePath": "S:\\vscode\\repos\\Csharp Rare Crew\\Csharp Rare Crew\\Csharp Rare Crew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\skiasharp\\3.119.0\\skiasharp.3.119.0.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.0\\skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.0\\skiasharp.nativeassets.win32.3.119.0.nupkg.sha512"
+  ],
+  "logs": []
+}
